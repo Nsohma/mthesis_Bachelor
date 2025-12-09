@@ -1,0 +1,41 @@
+{
+  // 保存したら自動ビルド
+  "latex-workshop.latex.autoBuild.run": "onSave",
+
+    // latexmk を直接呼ぶツール
+  "latex-workshop.latex.tools": [
+    {
+      "name": "latexmk (uplatex+dvipdfmx)",
+      "command": "latexmk",
+      "args": [
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "-e",
+        "$latex='uplatex %O -synctex=1 -interaction=nonstopmode %S'",
+        "-e",
+        "$bibtex='upbibtex %O %B'",
+        "-e",
+        "$dvipdf='dvipdfmx %O -o %D %S'",
+        "-pdfdvi",
+        "%DOC%"
+      ]
+    }
+  ],
+  
+
+  // 上のツールを使うレシピ
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "latexmk (uplatex+dvipdfmx)",
+      "tools": ["latexmk (uplatex+dvipdfmx)"]
+    }
+  ],
+
+  // 既定のレシピにする（コマンドパレット→Buildでも同じ動作）
+  "latex-workshop.latex.recipe.default": "latexmk (uplatex+dvipdfmx)",
+
+  // 任意: 中間ファイルの掃除やPDFビューアの指定
+  "latex-workshop.latex.autoClean.run": "onBuilt",
+  "latex-workshop.view.pdf.viewer": "tab"
+}

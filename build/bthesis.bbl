@@ -1,0 +1,115 @@
+\begin{thebibliography}{10}
+
+\bibitem{rv}
+AUTODESK.
+\newblock Rv - flow production tracking.
+\newblock \url{https://www.autodesk.com/products/flow-production-tracking/rv}, 2024.
+\newblock Accessed: 2024-11-08.
+
+\bibitem{hiero}
+FOUNDRY.
+\newblock Hiero \& hieroplayer | マルチショット管理ツール - foundry.
+\newblock \url{https://www.foundry.com/ja/products/nuke-family/hiero}, 2024.
+\newblock Accessed: 2024-11-08.
+
+\bibitem{shotgrid}
+AREA JAPAN.
+\newblock Cg・映像・ゲーム業界向けにプロジェクト・アセット管理、レビュー機能がついた管理ツール flow production tracking（旧shotgrid）.
+\newblock \url{https://area.autodesk.jp/product/shotgrid/}, 2024.
+\newblock Accessed: 2024-11-08.
+
+\bibitem{anikuro}
+MemoRy-TeCH.
+\newblock アニクロ：アニメ制作管理システム.
+\newblock \url{https://kaleida.jp/service/anikuro/}, 2024.
+\newblock Accessed: 2024-11-08.
+
+\bibitem{savepoint}
+MUGENUP.
+\newblock Save point - セーブポイント.
+\newblock \url{https://mugenup.com/services/savepoint/}, 2024.
+\newblock Accessed: 2024-11-08.
+
+\bibitem{clipstudio}
+セルシス.
+\newblock Clip studio paint.
+\newblock \url{https://www.clipstudio.net/ja/?gad_source=1&gclid=CjwKCAiAzc2tBhA6EiwArv-i6QF85pfLtyUNAM7eQ8bbma4H9GOG1V6cuOWRjDdWZ2YvoADH1f7hjxoCYpUQAvD_BwE}, 2024.
+\newblock Accessed: 2024-11-08.
+
+\bibitem{redmine}
+ファーエンドテクノロジー株式会社.
+\newblock Redmine.jp.
+\newblock \url{https://redmine.jp}, 2024.
+\newblock Accessed: 2024-12-21.
+
+\bibitem{marukome}
+マルコメ株式会社.
+\newblock 料亭の味 | cmギャラリー | マルコメ.
+\newblock \url{https://www.marukome.co.jp/cm/ryotei/}, 2022.
+\newblock Accessed: 2024-11-08.
+
+\bibitem{matsushita}
+松下光範, 山西良典.
+\newblock アイデアソンによるアニメーション中間生成物の活用可能性の検討.
+\newblock 紀要 アートリサーチ, Vol.~23, pp. 137--143, 2023.
+
+\bibitem{yiyi}
+夏威夷, 渕上正浩, 齋藤豪.
+\newblock 日本のセルアニメーション制作におけるオンラインデータ管理と 映像比較を用いた制作支援に関する研究.
+\newblock {\em Media Computing Conference}, 2023.
+
+\bibitem{yamakawa}
+山川道子.
+\newblock アニメーションアーカイブの現状　2017.
+\newblock \url{https://artscape.jp/study/digital-achive/10142147_1958.html}, 2017.
+\newblock Accessed: 2024-11-08.
+
+\bibitem{olmfmtool}
+山岸悟, 高橋優, 深谷祐太, 木下美紀, 前島謙宣.
+\newblock Olm r\&d祭2022 デジタル作画のパイプライン構築 -olm fm tool-.
+\newblock \url{https://speakerdeck.com/olmdrd/matsuri2022-fmtool}, 2022.
+\newblock Accessed: 2024-11-08.
+
+\bibitem{aimdb}
+新潟大学.
+\newblock 新潟大学アニメ中間素材データベース aimdb.
+\newblock \url{https://aim.arc.niigata-u.ac.jp/}.
+
+\bibitem{toei}
+東映アニメーション.
+\newblock 東映アニメーション デジタルタイムシート.
+\newblock \url{https://www.clipstudio.net/ja/dl/toeianimation/}, 2024.
+\newblock Accessed: 2024-11-08.
+
+\bibitem{sannjigenn}
+株式会社サンジゲン.
+\newblock 株式会社サンジゲン.
+\newblock \url{https://www.sanzigen.co.jp/}, 2024.
+\newblock Accessed: 2024-11-08.
+
+\bibitem{xdts}
+株式会社セルシス.
+\newblock Xdts ファイルフォーマット - clip studio paint.
+\newblock \url{https://vd.clipstudio.net/clipcontent/paint/app/ToeiAnimation/XDTSFileFormat_ja.pdf}, 2018.
+
+\bibitem{trigger}
+株式会社トリガー.
+\newblock \url{https://doi.org/10.32130/idr.15.1}, 2022.
+\newblock Accessed: 2024-11-08.
+
+\bibitem{fucci}
+渕上正浩, 齋藤豪.
+\newblock アニメ制作管理と同時に行う中間生成物の蓄積手法.
+\newblock 芸術科学フォーラム, Vol.~49, No.~10, 2025.
+
+\bibitem{matsumoto}
+松本淳.
+\newblock [a11] 実務家に聞くアニメアーカイブデータベースの可能性と課題：新潟大学アニメ中間素材データベース（aimdb）へのフィードバックから.
+\newblock デジタルアーカイブ学会誌, Vol.~7, No.~s2, pp. s39--s42, 2023.
+
+\bibitem{nagao}
+長尾隣, 齋藤豪.
+\newblock 日本のアニメーション制作における各作業工程に関わるデータ事例に基づくデータベースの設計に関する研究.
+\newblock 画像電子学会研究会講演予稿, Vol. 21.04, pp. 170--173, 2022.
+
+\end{thebibliography}
